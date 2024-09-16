@@ -10,7 +10,9 @@ User Interface: A clean and straightforward interface with buttons for numbers a
 
 # Files
 index.html: Contains the structure of the calculator, including buttons and display.
+
 styles.css: The CSS file for styling the calculator and buttons.
+
 script.js: The JavaScript file that implements the calculator's logic and functionality.
 
 # Acknowledgements
